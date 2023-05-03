@@ -1,0 +1,75 @@
+header {
+  color: #0bc5ff;
+  font-weight: 400;
+  padding: 20px 20px 20px 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.city {
+  color: #5a6275;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.week-time {
+  color: #5a6275;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.weather {
+  margin: 10px 0 40px 0;
+}
+
+.temperature {
+  color: #5a6275;
+  font-family: "Roboto", sans-serif;
+  font-size: 75px;
+  font-weight: 400;
+  padding-left: 25px;
+  position: relative;
+  top: -10px;
+}
+
+.celsius {
+  color: #5a6275;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: relative;
+  top: -50px;
+}
+
+.fahrenheit {
+  color: #5a6275;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: relative;
+  top: -50px;
+}
+
+.weather-info {
+  color: #5a6275;
+  font-family: "Roboto", sans-serif;
+  padding-left: 20px;
+  position: relative;
+  top: -3px;
+}
+
+.forcast {
+  margin: 30px 0;
+  color: #5a6275;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+}
+
+.min-max {
+  padding-top: 12px;
+}
