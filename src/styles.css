@@ -74,7 +74,16 @@ header {
   padding-top: 12px;
 }
 
-
 a {
-  margin: 30px;
+  margin: 60px 0 40px 80px;
+  font-size: 11px;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.link {
+  font-size: 11px;
+  font-weight: bold;
+  color: #5a6275;
+  font-family: "Courier New", Courier, monospace;
 }
